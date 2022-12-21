@@ -1,6 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-import './assets/main.css'
+import './assets/pure-min.css'
 
-createApp(App).mount('#app')
+const app = createApp(App);
+app.config.globalProperties.window = window
+app.mount('#app');

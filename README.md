@@ -1,14 +1,10 @@
 # print-cal
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple website for generating vertical calendar for printing. Built with vue.js
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Live
+ - [Github](https://angus6b23.github.io/print-cal/dist/index.html)
+ - [12a.app](https://12a.app/print-cal)
 
 ## Project Setup
 
